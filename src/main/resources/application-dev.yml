@@ -1,0 +1,4 @@
+guru:
+  username: DevYMLUsername
+  password: DevYMLPassword
+  JdbcUrl: DevJdbcUrl
